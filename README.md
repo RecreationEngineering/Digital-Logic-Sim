@@ -1,2 +1,2 @@
-# Digital-Logic_Sim
+# Digital Logic Sim
 Digital logic simulator 
